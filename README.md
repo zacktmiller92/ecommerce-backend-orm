@@ -24,7 +24,7 @@ This project is designed to create an ecommerce backend with product information
 2. launch mysql using the 'mysql -u root -p' command
 3. Run the following commands in order. This will create your database, use it and populate it with seed data.
     1. source db/db.sql
-    2. Exit mysql using the "exit;"
+    2. Exit mysql using the "exit;" command
 4. npm run seed
 5. launch the app using "npm start"
 
