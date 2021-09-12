@@ -28,7 +28,7 @@ This project is designed to create an ecommerce backend with product information
 4. npm run seed
 5. launch the app using "npm start"
 
-Video Walkthrough: 
+Video Walkthrough: https://drive.google.com/file/d/1PueG_tU_82H_CzdD4vOGVEnsTivXupNN/view?usp=sharing
 
 ## Credits
 Created by Zack Miller at Rutgers Coding Bootcamp
